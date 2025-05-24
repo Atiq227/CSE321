@@ -1,0 +1,21 @@
+CSE321
+Operating Systems
+02
+CSE330
+Numerical Methods
+08
+CSE446
+Advance Algorithms
+01
+MAT215
+Mathematics III:Complex Variables & Laplace Transformations
+Semester:
+Summer 2024
+Lab Faculties:-
+CSE321:-
+MAO
+FBL
+CSE330:-
+MNP
+SDH
+-----x-----
